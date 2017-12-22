@@ -1,0 +1,15 @@
+Esta Aplicación fue desarrollada En la version de visual studio 2017 y SQL SERVER 2017
+
+Para Ingresar al Sistema Los datos correspondientes son:
+
+Usuario: anthony
+contraseña: 12345
+
+////////////////////////////////////////////////
+EN EL ARCHIVO ReporteSQL.txt SE ENCUENTRA LA CONSULTA PARA EL REPORTE EN SQL
+
+////////////////////////////////////////////////
+EL ARCHIVO ScriptBaseDATOSFormulario.sql SE ENCUENTRA EL SCRIPT DE LA BASE DE DATOS DEL PROYECTO
+
+////////////////////////////////////////////////
+EN EL ARCHIVO COMPRIMIDO Formularios_Login.zip SE ENCUENTRA EL PROYECTO

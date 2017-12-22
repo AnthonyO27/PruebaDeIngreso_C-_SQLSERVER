@@ -1,0 +1,3 @@
+select f.id_form,rl.Nom_repleg,rl.ape_repleg,ec.rsoc_entc as 'Nombre Empresa',f.total_form as 'Valor retenido'
+from Formularios f inner join Representantes_Legales rl on f.CC_repleg=rl.Cc_repleg 
+				   inner join Entidades_contratantes ec on f.nit_entc = ec.nit_entc	;
